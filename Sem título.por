@@ -1,13 +1,12 @@
 programa {
-  funcao inteiro soma(inteiro valor1, inteiro valor2){
-  retorne valor1 + valor2
-  
+  funcao inicio() {
+    /* inteiro dano, dano_critico, bonus
+   escreva("Digite o dano que seu personagem tomou: ")
+   leia(dano)
+   escreva("Digite o bonus ganhado: ")
+   leia(bonus)
+   dano_critico = dano * 1.5 + bonus
+   escreva("Seu dano foi de: " + dano_critico)*/
     
   }
-  funcao inicio() {
-  escreva(soma(5,2))
-  escreva("\n")
-  escreva(soma(10,8))
-  }
-  } 
 }
