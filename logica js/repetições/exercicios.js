@@ -9,7 +9,7 @@ for (let numero = 10; numero > 0; numero--) {
 
 soma = 0
 
-for Numero in range(1, 101):
+for numero in range(1, 101):
     soma += numero
 
 console.log(`A soma dos números de 1 a 100 é ${soma}`)
