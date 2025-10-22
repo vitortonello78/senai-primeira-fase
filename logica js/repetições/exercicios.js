@@ -3,22 +3,13 @@
 //     console.log(`O quadrado de ${numero} é ${quadrado}`);
 // }
 
-// for (let numero = 10; numero > 0; numero--) {
-//     console.log(numero);
-// }
-
-// soma = 0
-
-// for (let Numero = 1; Numero <= 100; Numero++) {
-//     soma += Numero;
-// }
-
-// console.log(`A soma dos números de 1 a 100 é ${soma}`)
-
-
-for (let i = 1; i <= 10; i++) {
-    let resultado = 5 * i;
-    console.log(`5 x ${i} = ${resultado}`);
+for (let numero = 10; numero > 0; numero--) {
+    console.log(numero);
 }
 
+soma = 0
 
+for Numero in range(1, 101):
+    soma += numero
+
+console.log(`A soma dos números de 1 a 100 é ${soma}`)

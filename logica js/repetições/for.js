@@ -29,5 +29,5 @@ alert("soma: " + soma)
 const nomes =  ["Dona bete", "Mano juca","Lucio","Fernando", "Capitão Ganso"]
 
 for(let i=0; i<4; i++){
-    alert(nomes[i])
+    alert(nomes[i]) 
 }
