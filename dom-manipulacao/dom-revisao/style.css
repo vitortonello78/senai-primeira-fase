@@ -1,0 +1,12 @@
+
+button{
+    background-color: rgb(23, 23, 26);
+    color:rgb(29, 121, 201);
+    border: none;
+    border-radius: 5px;
+    width: 250px;
+}
+
+#btCadastrar{
+    color: rgb(122, 112, 131);
+}
