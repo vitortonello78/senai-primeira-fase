@@ -1,0 +1,19 @@
+#formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: 15px;
+
+    background-color: bisque;
+}
+button:hover{
+    scale: 1.2;
+}
+
+#painelDino {
+    background-color: beige;
+    min-height: 30px;
+    margin-top: 25px;
+}
